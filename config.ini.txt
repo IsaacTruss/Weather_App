@@ -1,0 +1,2 @@
+[gfg]
+api=Your API from open weather map
